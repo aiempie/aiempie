@@ -12,7 +12,7 @@
 #### ☝️ Rankdle - Mini game watch video and guess level player
 <img width="1200" alt="image" src="https://github.com/aiempie/aiempie/assets/113259673/1fb75155-0906-4c67-9bdc-cb8a08ca9e2f">
 
-[👉 Demo](https://guesswhat-flax.vercel.app/)
+[👉 Demo](https://guesswhat.online/)
 [👉 Repository (Old)](https://github.com/aiempie/mern-doanrank) 
 
 #### ☝️ Sample Quiz - New example to start CURD with MERN
